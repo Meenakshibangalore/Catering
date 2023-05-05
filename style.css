@@ -1,0 +1,231 @@
+*{
+    
+    font-family: 'Alef';font-size: 18px;
+    padding: 0;
+    margin: 0;
+    
+
+}
+.main1{
+
+    
+    margin-top: -95px;
+    float: right;
+padding: 50px;
+word-spacing: 30px;
+}
+.main1 a{
+
+    text-decoration: none; 
+}
+.heading{
+
+    
+    padding: 15px;
+    width: 100%;
+    background-color: white;
+    height: 15px;
+    position: fixed;
+    border: 1px solid white;
+    box-shadow: 10px 3px 4px 2.5px gray;
+
+}
+.link a{
+
+    float: left;
+    margin-right: 760px;
+    letter-spacing: 10px;
+    width: 500px;
+    font-size: 20px;
+    padding: 14px;
+    text-decoration: none;
+    margin-top: -30px;
+    
+}
+.bur{
+
+    width: 100%;
+    margin-top: 5px;
+
+}
+.p1{
+
+    margin-top: -120px;
+    font-size: 50px;
+    color: gray;
+    letter-spacing: 5px;
+}
+.plates1{
+
+
+    margin-top: -660px;
+    
+margin-left: 750px;
+    width: 500px;
+    height: 750px;
+    
+    
+}
+
+.plates img{
+
+    width: 500px;
+    opacity: 0.7;
+    margin-left: 190px;
+    margin-top: 120px;
+    
+
+
+}
+
+.firstpara{
+
+    
+
+    padding: 30px;
+  
+
+}
+.firstpara h1{
+
+    text-align: center;
+    font-size: 40px;
+    font-weight: lighter;
+    letter-spacing: 7px;
+}
+.firstpara h3{
+
+    text-align: center;
+    font-size: 20px;
+    font-weight: lighter;
+    letter-spacing: 8px;
+}
+
+
+
+.para1{
+
+ line-height: 25px;
+ font-size: 15px;
+ }
+ .para1 span{
+
+background-color: rgba(109, 105, 105, 0.753);
+ }
+ .para2{
+
+    font-size: 15px;
+    line-height: 30px;
+    color: grey;
+ }
+ .line1{
+
+width: 1100px;
+margin-left: 120px;
+color: rgb(224, 209, 209);
+
+
+ }
+.secondpara h1{
+    font-size: 40px;
+    font-weight: lighter;
+    letter-spacing: 7px;
+
+}
+.secondpara h3{
+
+    font-size: 20px;
+    font-weight: lighter;
+    letter-spacing: 8px;
+
+}
+.menuheading{
+
+    text-align: center;
+    margin-top: 100px;
+    padding: 30px;
+}
+.menuimage{
+
+    margin-left: 710px;
+    margin-top: -860px;
+}
+.secondpara{
+
+    margin-top: 40px;
+
+    width: 700px;
+
+}
+.secondpara p{
+
+    font-size: 15px;
+}
+.centermenu{
+padding: 50px;
+margin-left: 90px;    
+}
+.line2{
+
+    width: 1100px;
+    color: rgb(224, 209, 209);
+    margin-left: 110px;
+    margin-top: 100px;
+}
+.contact h1{
+
+    font-size: 43px;
+    letter-spacing: 5px;
+    font-weight: lighter;
+}
+.middle{
+
+    color: rgb(75, 72, 72);
+    font-weight: bolder;
+}
+.contact{
+
+    margin-left: 160px;
+    margin-right: 100px;
+    padding: 50px;
+}
+input{
+
+    width: 100%;
+    height: 60px;
+    border: none;
+    border-bottom: 1px solid rgb(182, 175, 175);
+}
+.lastbut{
+
+    
+    padding: 10px;
+    width: 200px;
+    border: none;
+}
+.footer{
+
+    text-align: center;
+    margin-top: 100px;
+    background-color: grey;
+    height: 50px;
+    padding: 10px;
+}
+input:active{
+
+    border: 1px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
